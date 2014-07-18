@@ -3,11 +3,12 @@
 @extends('master')
 
 @section('header')
-<h2>Lorem Ipsum Generator</h2>
+
 @stop
 
 @section('content')
 
+<h2>Lorem Ipsum Generator</h2>
 <h3>Give the number of paragraphs to display:</h3>
 
 

@@ -22,3 +22,6 @@ Route::get('lorem_ipsum', function(){
 	return View::make('lorem_ipsum');
 });
 
+Route::get('user_gen', function(){
+	return View::make('user_gen');
+});
